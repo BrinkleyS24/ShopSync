@@ -1,0 +1,82 @@
+/* HomeScreen.css */
+
+/* Main container */
+.home-container {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Header styles */
+  header {
+    margin-bottom: 30px;
+  }
+  header h1 {
+    font-size: 28px;
+    color: #333;
+    font-weight: bold;
+  }
+  header p {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  /* Features section styles */
+  .features h2 {
+    font-size: 20px;
+    color: #444;
+  }
+  .features ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  .features li {
+    margin-bottom: 15px;
+    color: #666;
+  }
+  
+  /* Recommended products section styles */
+  .recommended-products h2 {
+    font-size: 20px;
+    color: #444;
+  }
+  .recommended-products ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  .recommended-products li {
+    margin-bottom: 15px;
+    color: #666;
+  }
+  
+  /* CTA section styles */
+  .cta h2 {
+    font-size: 24px;
+    color: #555;
+  }
+  .cta p {
+    font-size: 16px;
+    color: #888;
+  }
+  .signup-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .signup-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Footer styles */
+footer {
+    margin-top: 40px;
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+  }
